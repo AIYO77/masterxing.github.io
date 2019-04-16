@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MasterXing&#39;s Blog</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-16T09:41:09.196Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>XingWei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>天才第一步</title>
+    <link href="http://yoursite.com/2019/04/15/%E5%A4%A9%E6%89%8D%E7%AC%AC%E4%B8%80%E6%AD%A5/"/>
+    <id>http://yoursite.com/2019/04/15/天才第一步/</id>
+    <published>2019-04-15T07:35:52.341Z</published>
+    <updated>2019-04-16T09:41:09.196Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="为什么要写博客呢"><a href="#为什么要写博客呢" class="headerlink" title="为什么要写博客呢"></a>为什么要写博客呢</h2><p>毕业已是第三个年头，从事Android开发差不多三年时间,发现自己的知识体系太零碎，不成体系。什么都想学，学又学了忘，所以打算用Blog来记录下学习过程，也许只是突然的好奇心想学一样东西，我也会记录一下，防止忘记。</p><h2 id="博客的内容"><a href="#博客的内容" class="headerlink" title="博客的内容"></a>博客的内容</h2><p>每个人写博客的目的都不尽相同，我的写作目的有：</p><p><strong>积累</strong> 积累工作中的经验，和学习过程的点滴。</p><p><strong>分享</strong> 作为一名程序员，“开源”精神必须要有。</p><p>今年初去大厂面试才明台一个道理，深度比广度重要（如果有广度又有深度那不用说），这次面试过后，我也下决心选择<strong>音视频</strong>方向深耕，慢慢沉淀，也许会用很多时间，毕竟以前都是应用层开发。还好新公司有视频和直播业务。</p><p>所以以后更新的博客大多和<strong>Android音视频开发</strong>相关</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">即使最后没有人为你鼓掌，也要优雅地谢幕，感谢自己的认真付出</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;为什么要写博客呢&quot;&gt;&lt;a href=&quot;#为什么要写博客呢&quot; class=&quot;headerlink&quot; title=&quot;为什么要写博客呢&quot;&gt;&lt;/a&gt;为什么要写博客呢&lt;/h2&gt;&lt;p&gt;毕业已是第三个年头，从事Android开发差不多三年时间,发现自己的知识体系太零碎，不成体系
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+      <category term="Next" scheme="http://yoursite.com/categories/Hexo/Next/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="Next" scheme="http://yoursite.com/tags/Next/"/>
+    
+  </entry>
+  
+</feed>
